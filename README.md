@@ -1,3 +1,3 @@
-# mp Racket university course
+# Racket university course
 
 Solutions of weekly assignments and final projects. 
